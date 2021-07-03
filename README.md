@@ -9,6 +9,16 @@ Los ejecicios son compatibles con el [framework firmware v3](https://github.com/
 
 ## Ejercicios
 
+Ejercitaciones relacionadas con el desarrollo de las prácticas.
+| Ejercicio | Descripción | Nombre | Tipo |
+| :-: | :-: | :-: | :-: |
+| Ejercicio introductorio parte 1 | Colas + Memoria estática <br> Colas + Memoria dinámica | Parte_A <br> Parte_B | Obligatorio |
+| Ejercicio introductorio parte 2 | OOP + Memoria dinámica <br> OOP + Pool de memoria  | Parte_C <br> Parte_D | Explicado en clase 2 |
+
+## Trabajo practico
+
+El trabajo practico se publicaraá en la semana 2. 
+
 ## Lecturas recomendadas
 
 - [Modularidad, abstracción y múltiples instancias en C para Embedded Software] (https://embedded-exploited.blogspot.com/2014/04/generalizacion-encapsulamiento-abstraccion-modularidad-oop.html) 
